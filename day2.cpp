@@ -33,7 +33,6 @@ void solve() {
         if(line.empty())continue;
 
         istringstream ss(line);
-        string gameLabel;
         string colornum;
         ll quantity;
         string color;
